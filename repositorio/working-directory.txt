@@ -1,0 +1,13 @@
+WORKING DIRECTORY
+	Es la carpeta donde se lleva a cabo el trabajo
+	de nuestro proyecto, generamente utilizaremos
+	las herramientas de desarrollo elegidas por
+	nosotros y muy rara vez la consola.
+
+COMANDOS:
+
+CD (check directory)
+	Nos permite navegar entre los directorios de la computadora
+	(carpetas) utilizando diferentes variantes.
+	
+	cd .. => vuelve al directorio anterior
