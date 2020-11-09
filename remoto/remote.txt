@@ -12,5 +12,5 @@ git remote	lista los repositorios remotos (1 o mas)
 
 git remote add <alias> <url> => agrega un repositorio remoto
 git remote rename <alias> <nuevo alias> =>permite cambiar el alias
-git remote -v => lista los repositorios de manera verbose (URL in
+git remote -v => lista los repositorios de manera verbose (URL incluida)
 git remote remove <alias> => quita el remoto de la lista de repositorio

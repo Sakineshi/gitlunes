@@ -1,0 +1,8 @@
+GITHUB:
+	https://github.com
+
+GITLAB:
+	https://gitlab.com
+
+BITBUCKET:
+	https://bitbucket.org
